@@ -1,6 +1,6 @@
 
 # Welcome
-Welcome to my collection of works done using p5.js. Within the gh.pages branch, you will find uploaded assignments/sketches done within p5.js
+## Welcome to my collection of works done using p5.js. You will find uploaded assignments/sketches done within p5.js
 =======
 # Collection of Works in P5.js
 ## 10-8 File
